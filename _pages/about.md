@@ -15,28 +15,28 @@ redirect_from:
 2. 高光谱解混
 3. 脑电学习
 
-   欢迎对科研有兴趣和热情的同学邮件联系我(lisongtao@jhun.edu.cn)
 
-Site-wide configuration
+欢迎对科研有兴趣和热情的同学邮件联系我(lisongtao@jhun.edu.cn)
+
+已发表论文：
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+[1] Li S T, Li W G, Hu J W, et al. Semi-supervised bi-orthogonal constraints dual-graph regularized NMF for subspace clustering[J]. Applied Intelligence, 2022, 52(3): 3227-3248.
+[2] Li S, Li W, Lu H, et al. Semi-supervised non-negative matrix tri-factorization with adaptive neighbors and block-diagonal learning[J]. Engineering Applications of Artificial Intelligence, 2023, 121: 106043.
+[3] Li S, Li W, Li Y. Adversarial graph regularized deep nonnegative matrix factorization for data representation[J]. IEEE Access, 2022, 10: 86445-86457.
+[4] Li S, Li W, Cai L, et al. Subspace multi-regularized non-negative matrix factorization for hyperspectral unmixing[J]. Applied Intelligence, 2023, 53(10): 12541-12563.
+[5] Li S, Li Y, Zhang J. Inter-and intra-hypergraph regularized nonnegative matrix factorization with hybrid constraints[J]. Engineering Applications of Artificial Intelligence, 2024, 130: 107758.
+[6] 李松涛,李维刚,甘平,等.基于Sinkhorn距离特征缩放的多约束非负矩阵分解算法[J].电子与信息学报,2022,44(12):4384-4394. 
+[7] 李维刚,甘平, 谢璐， 李松涛.基于样本对元学习的小样本图像分类方法[J].电子学报,2022,50(02):295-304. 
+[8] 李松涛,李维刚,师静蕊.基于改进PatchMatch算法的金相图像修复[J].金属热处理,2021,46(03):196-205.
+[9] Li Y, Li W, Zhao Y, et al. Hybrid multi-objective optimization algorithm based on angle competition and neighborhood protection mechanism[J]. Applied Intelligence, 2023, 53(8): 9598-9620.
+[10] Li Y, Li W, Li S, et al. An infill sampling criterion based on improvement of probability and mapping crowding distance for expensive multi/many-objective optimization[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108616.
+
+已公开专利：
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[1] 李松涛,陈娇,李轩泽.一种多补丁匹配的金相图修复方法及装置:CN202010879968.1
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+横向项目：
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2023       新科澳石油天然气有限股份公司人事信息化系统（已完结）
+2023-至今  成都呆鱼乐动科技有限股份公司广告竞价产品开发（开发中）
