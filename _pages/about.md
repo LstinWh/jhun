@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my master degree (supervised by Zhanjie Song) and PhD degree (supervised by Chunping Hou) from Tianjin University in 2016 (master-doctor continuous study program). From Sep 2014-Sep 2015, I was a visiting student in University of Wollongong, Australia, supervised by Wanqing Li. My recent research interests lie in the areas of computer vision and machine learning. I am recently interested in building machine learning models for solving computer vision and data mining problems.
+李松涛，博士，湖北通城人，中共党员，江汉大学讲师，硕士生导师。2013年本科毕业于湖北工业大学电子信息科学专业（导师：桂丽），2016年毕业于深圳大学光学工程专业（导师：郭金川、刘鑫），2016-2019年于中国信科集团工作，2022年毕业于武汉科技大学控制科学与工程专业（导师：李维刚）。
 
 A data-driven personal website
 ======
