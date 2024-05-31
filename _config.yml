@@ -25,19 +25,16 @@ author:
   name             : "李松涛博士"
   pronouns         : # example: "she/her"  
   bio              : "很缺本科生和硕士生，联系我吧 ^_^"
-  location         : "Earth"
+  location         : "中国-湖北-武汉"
   employer         : "江汉大学"
   uri              : # URL
   email            : "lisongtao@jhun.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=QUJBFfQAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "http://orcid.org/0000-0002-0903-8801"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
