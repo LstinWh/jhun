@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.png"
   name             : "李松涛博士"
   pronouns         : # example: "she/her"  
   bio              : "很缺本科生和硕士生，联系我吧 ^_^"
