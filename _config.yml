@@ -12,7 +12,7 @@ title                    : "李松涛（江汉大学-数据科学）"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://LstinWh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.png"
+  avatar           : "profile.png"
   name             : "李松涛博士"
   pronouns         : # example: "she/her"  
   bio              : "很缺本科生和硕士生，联系我吧 ^_^"
