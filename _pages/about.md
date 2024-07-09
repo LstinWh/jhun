@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-李松涛，博士，湖北通城人，中共党员，江汉大学讲师，硕士生导师。2013年本科毕业于湖北工业大学电子信息科学专业（导师：桂丽），2016年毕业于深圳大学光学工程专业（导师：郭金川、刘鑫），2016-2019年于中国信科集团工作，2022年毕业于武汉科技大学控制科学与工程专业（导师：李维刚）。
+李松涛，博士，湖北通城人，中共党员，江汉大学讲师，硕士生导师
+
+2013年本科毕业于湖北工业大学电子信息科学专业（导师：桂丽）;
+2016年毕业于深圳大学光学工程专业（导师：郭金川、刘鑫）;
+2016-2019年于中国信科集团工作;
+2022年毕业于武汉科技大学控制科学与工程专业（导师：李维刚）
 
 研究方向：
 ======
@@ -33,28 +38,31 @@ redirect_from:
 
 欢迎对科研有兴趣和热情的同学邮件联系我(lisongtao@jhun.edu.cn)
 
-已发表论文：
+已发表论文(分区按当年)：
 ------
+[1] **Li S**, Wu S, Tang C, et al. Robust Non-negative Matrix Factorization With Self-initiated Multi-Graph Contrastive Fusion[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, In press. (SCI 1区 Top IF：10.2)
 
-[1] Li S T, Li W G, Hu J W, et al. Semi-supervised bi-orthogonal constraints dual-graph regularized NMF for subspace clustering[J]. Applied Intelligence, 2022, 52(3): 3227-3248. 
+[2] Li Y, Li W, **Li S**, et al. An infill sampling criterion based on improvement of probability and mapping crowding distance for expensive multi/many-objective optimization[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108616. (SCI 1区 Top IF：8.0)
 
-[2] Li S, Li W, Lu H, et al. Semi-supervised non-negative matrix tri-factorization with adaptive neighbors and block-diagonal learning[J]. Engineering Applications of Artificial  Intelligence, 2023, 121: 106043. 
+[3] **Li S**, Li Y, Zhang J. Inter-and intra-hypergraph regularized nonnegative matrix factorization with hybrid constraints[J]. Engineering Applications of Artificial Intelligence, 2024, 130: 107758. (SCI 1区 Top IF：8.0)
 
-[3] Li S, Li W, Li Y. Adversarial graph regularized deep nonnegative matrix factorization for data representation[J]. IEEE Access, 2022, 10: 86445-86457. 
+[4] Zhang J, Chen T, **Li S**, et al. A graph propagation model with rich event structures for joint event relation extraction[J]. Information Processing & Management, 2024, 61(5),103811 . (SCI 1区 Top IF:7.4)
 
-[4] Li S, Li W, Cai L, et al. Subspace multi-regularized non-negative matrix factorization for hyperspectral unmixing[J]. Applied Intelligence, 2023, 53(10): 12541-12563. 
+[5] **Li S**, Li W, Lu H, et al. Semi-supervised non-negative matrix tri-factorization with adaptive neighbors and block-diagonal learning[J]. Engineering Applications of Artificial  Intelligence, 2023, 121: 106043. (SCI 1区 Top IF：8.0)
 
-[5] Li S, Li Y, Zhang J. Inter-and intra-hypergraph regularized nonnegative matrix factorization with hybrid constraints[J]. Engineering Applications of Artificial Intelligence, 2024, 130: 107758. 
+[6] **Li S**, Li W, Cai L, et al. Subspace multi-regularized non-negative matrix factorization for hyperspectral unmixing[J]. Applied Intelligence, 2023, 53(10): 12541-12563. (SCI 2区 IF：5.3)
 
-[6] 李松涛,李维刚,甘平,等.基于Sinkhorn距离特征缩放的多约束非负矩阵分解算法[J].电子与信息学报,2022,44(12):4384-4394. 
+[7] Li Y, Li W, Zhao Y, **Li S**, Hybrid multi-objective optimization algorithm based on angle competition and neighborhood protection mechanism[J]. Applied Intelligence, 2023, 53(8): 9598-9620. (SCI 2区 IF：5.3)
 
-[7] 李维刚,甘平, 谢璐， 李松涛.基于样本对元学习的小样本图像分类方法[J].电子学报,2022,50(02):295-304. 
+[8] **李松涛**,李维刚,甘平,等.基于Sinkhorn距离特征缩放的多约束非负矩阵分解算法[J].电子与信息学报,2022,44(12):4384-4394. (中文前10% EI 中国科协T1)
 
-[8] 李松涛,李维刚,师静蕊.基于改进PatchMatch算法的金相图像修复[J].金属热处理,2021,46(03):196-205. 
+[9] 李维刚, 甘平, 谢璐，**李松涛**.基于样本对元学习的小样本图像分类方法[J].电子学报,2022,50(02):295-304. (中文前10% EI 中国科协T1)
 
-[9] Li Y, Li W, Zhao Y, et al. Hybrid multi-objective optimization algorithm based on angle competition and neighborhood protection mechanism[J]. Applied Intelligence, 2023, 53(8): 9598-9620. 
+[10] **Li S**, Li W, Hu J, et al. Semi-supervised bi-orthogonal constraints dual-graph regularized NMF for subspace clustering[J]. Applied Intelligence, 2022, 52(3): 3227-3248. (SCI 2区 IF：5.0)
 
-[10] Li Y, Li W, Li S, et al. An infill sampling criterion based on improvement of probability and mapping crowding distance for expensive multi/many-objective optimization[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108616. 
+[11] **Li S**, Li W, Li Y. Adversarial graph regularized deep nonnegative matrix factorization for data representation[J]. IEEE Access, 2022, 10: 86445-86457. (SCI 3区 IF：3.7)
+
+[12] 李松涛,李维刚,师静蕊.基于改进PatchMatch算法的金相图像修复[J].金属热处理,2021,46(03):196-205. (CSCD 中国科协T2)
 
 已公开专利：
 ------
